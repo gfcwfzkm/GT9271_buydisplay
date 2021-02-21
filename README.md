@@ -3,7 +3,7 @@ Capacitive touchscreen driver for the RA8876 1024x600 10.1" large display, from 
 
 
 Example code:
-```
+```c
 touch_t touchDisplay;
 int main(void)
 {
